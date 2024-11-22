@@ -1,0 +1,9 @@
+no quiero
+Tali tesa
+
+<<<<<<< HEAD
+
+cogjdjf
+=======
+Tali_Aprende git
+>>>>>>> b2a207c3b1169cfe88e597ec375e77cefeb9c271
